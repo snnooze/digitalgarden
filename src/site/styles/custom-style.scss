@@ -1,13 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-      background-color: white;
-      .content {
-       font-size: 14px;
-      }
-      h1 {
-       color: black;
-      }
+  margin: 0px;
+  padding : 0px;
+  
+}
+
+a{
+  text-decoration: none;
+  color : #brown;
+}
+
+.theme-dark
+{
+  font-family: 'Montserrat', sans-serif;
+  background-color: lightgrey;
+  font-size : 14px;
+  line-height: 28px;
+  color : #222222;
+}
+
+.navbar h1{
+  font-family: 'Abril Fatface', cursive;
+  color : tan;
+}
+
+ .theme-dark .content h1 {
+   background-color : #ffffff;
+   padding-left : 15px;
+   color: tan;
+   font-family: 'Abril Fatface', cursive;
+   font-size : 4em;
+}
+
+ .theme-dark .content h2 {
+   background-color : #ffffff;
+   padding-left : 15px;
+   color: tan;
+   font-family: 'Abril Fatface', cursive;
+   font-size : 3.6em;
+}
+
+ .theme-dark .content h3 {
+   background-color : #ffffff;
+   padding-left : 15px;
+   color: tan;
+   font-family: 'Abril Fatface', cursive;
+   font-size : 3.2em;
+}
+
+ .theme-dark .content h4 {
+   background-color : #ffffff;
+   padding-left : 15px;
+   color: tan;
+   font-family: 'Abril Fatface', cursive;
+   font-size : 2.8em;
+}
+
+ .theme-dark .content h5 {
+   background-color : #ffffff;
+   padding-left : 15px;
+   color: tan;
+   font-family: 'Abril Fatface', cursive;
+   font-size : 2.4em;
+}
+
+ .theme-dark .content h6 {
+   background-color : #ffffff;
+   padding-left : 15px;
+   color: tan;
+   font-family: 'Abril Fatface', cursive;
+   font-size : 2em;
+}
+
+  .navbar
+  {
+    background-color : #ffffff;
+    box-shadow: 10px 0px 5px #252525;
+    position: fixed;
+  }
+
+.content
+{
+  padding : 5px;
+  background-color : lightgrey;
 }
