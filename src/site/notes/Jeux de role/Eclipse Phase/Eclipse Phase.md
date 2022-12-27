@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jeux de role/Eclipse Phase/Eclipse Phase/"}
+{"dg-publish":true,"permalink":"/jeux-de-role/eclipse-phase/eclipse-phase/"}
 ---
 
 
