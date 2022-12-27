@@ -5,5 +5,5 @@
 
 # Sommaire
 ## Programmation
- - [[Liste des notes et aides mémoire Cpp \| Cpp]]
- - [[Eclipse Phase \| Test]]
+ - [[Programmation/Cpp/Liste des notes et aides mémoire Cpp\|Liste des notes et aides mémoire Cpp]]
+ - [[Jeux de role/Eclipse Phase/Eclipse Phase\|Eclipse Phase]]
