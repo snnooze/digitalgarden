@@ -7,9 +7,14 @@ body {
   
 }
 
-a{
+.theme-dark .content a{
   text-decoration: none;
-  color : #brown;
+  color : brown;
+}
+
+.theme-dark .content ul{
+  list-style-type: circle;
+  color: brown;
 }
 
 .theme-dark
@@ -26,12 +31,18 @@ a{
   color : tan;
 }
 
+.theme-dark .content
+{
+  background-color : #ffffff;
+}
+
  .theme-dark .content h1 {
    background-color : #ffffff;
    padding-left : 15px;
    color: tan;
    font-family: 'Abril Fatface', cursive;
    font-size : 4em;
+   margin-top : 15px;
 }
 
  .theme-dark .content h2 {
