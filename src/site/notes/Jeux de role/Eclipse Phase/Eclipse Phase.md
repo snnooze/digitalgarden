@@ -14,17 +14,18 @@ La Phase d'éclipse est une période de latence qui correspond à l'intervalle d
 Le transhumanisme est un mouvement culturel et intelklectuel international qui soutient l'utilisation de la science et de la technologie à des fins d'amélioration de la condition humaine aussi bien physiquement que mentalement.
 Le transhumanisme embrasse aussi l'idée d'éliminer les désagréments liés à la vieillesse, le handicap, la maladie ou la mort.
 
-## Thématiques du jeu : Monde post apocalyptique, conspiration et horreur
+## Thématiques du jeu :
+### Post apocalyptique, conspiration et horreur
 
-### Post apocalyptique
+#### Post apocalyptique
 
 Les humains ont té détruits à une échelle inimaginable.
 
-### Conspiration
+#### Conspiration
 
 Des organisations secrètes et des groupes clandestins se mènent une guerre sans merci.
 
-### Horreur
+#### Horreur
 
 Horreur psychologique plutôt que gore. Incertitude quand à sa propre survie, l'inquiétude quand au fait de découvrir quelque chose de diabolique au milieu des étoiles, la peur de l'inconnu ou de faire face à ce qui ne devrait pas être.
 
