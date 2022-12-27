@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Jeux de role/Eclipse Phase/Eclipse Phase/"}
 ---
 
-
+![[couverture.jpg \| Banner]]
 # Eclipse Phase et thématiques
 
 ## La phase d'éclipse
