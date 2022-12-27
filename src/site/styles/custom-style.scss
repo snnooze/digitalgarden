@@ -114,3 +114,14 @@ body {
     box-shadow: 10px 0px 5px #252525;
     position: fixed;
   }
+.theme-dark .content img[alt=Banner]
+{
+  display : block;
+  width : 100%;
+  height : auto;
+  max-height : 600px;
+  overflow : hidden;
+  border-style: solid;
+  border-width : 0px;
+  margin-right : 10px;
+}
