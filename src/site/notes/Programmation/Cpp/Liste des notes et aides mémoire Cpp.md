@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/programmation/cpp/liste-des-notes-et-aides-memoire-cpp/"}
+{"dg-publish":true,"permalink":"/Programmation/Cpp/Liste des notes et aides mémoire Cpp/"}
 ---
 
