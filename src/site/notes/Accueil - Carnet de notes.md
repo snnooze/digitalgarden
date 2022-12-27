@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/accueil-carnet-de-notes/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/Accueil - Carnet de notes/","tags":"gardenEntry"}
 ---
 
 
