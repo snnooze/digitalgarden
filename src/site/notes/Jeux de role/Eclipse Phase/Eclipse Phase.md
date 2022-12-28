@@ -34,6 +34,8 @@ Horreur psychologique plutôt que gore. Incertitude quand à sa propre survie, l
 Dans le cadre de la campagne tous les PJ iincarnent des "sentinelles" agents au service d'un mystérieux réseau connu sous le nom de Firewall.
 Ce réseau se consacre à la neutralisation des risques existenciels (la menace à l'existence de l'humanité). 
 Firewall peut aussi effectuer des missionsde renseignement ou des enquêtes sur des personnes ou lieux.
-Les recrues sont repérées dans toutes les factions de la transhumanité ou peuvent être une bande de mercenaires.
+Les recrues sont repérées dans toutes les factions de la transhumanité.
 
 # Sommaire
+- [[Jeux de role/Eclipse Phase/Univers de jeu/Eclipse Phase - Univers de jeu\|Présentation de l'univers de jeu]]
+- [[Jeux de role/Eclipse Phase/Journal de campagne/Journal de campagne - Sommaire\|Journal de campagne]]
