@@ -7,7 +7,7 @@
 
 # Sommaire
 ## Programmation
- - [[Programmation/Cpp/Liste des notes et aides mémoire Cpp\|Liste des notes et aides mémoire Cpp]]
+ - A venir...
 ## Jeux de rôle
  - [[Jeux de role/Eclipse Phase/Eclipse Phase\|Eclipse Phase]]
 ## Divers
