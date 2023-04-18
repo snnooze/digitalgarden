@@ -148,7 +148,12 @@ filetree-sidebar .filelist .active-note a
   color : brown;
 }
 
-.toc ul
+.toc ul li
 {
   color : tan;
+}
+
+.toc
+{
+  border-width : 0px;
 }
