@@ -136,8 +136,13 @@ body {
   color : brown;
 }
 
-a .active-note
+.active-note
 {
   background-color : #ffffff;
+  color : brown;
+}
+
+.active-note a
+{
   color : brown;
 }
