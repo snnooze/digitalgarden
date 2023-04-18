@@ -126,12 +126,18 @@ body {
   margin-right : 10px;
 }
 
-.filetree-sidebar
+.filetree-sidebar, .toc
 {
   background-color : lightgrey;
 }
 
-.filetree-sidebar a
+.filetree-sidebar a, .toc a
 {
+  color : brown;
+}
+
+.active-note
+{
+  background-color : #ffffff;
   color : brown;
 }
