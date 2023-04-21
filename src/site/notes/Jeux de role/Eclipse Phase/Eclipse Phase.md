@@ -37,5 +37,5 @@ Firewall peut aussi effectuer des missionsde renseignement ou des enquêtes sur 
 Les recrues sont repérées dans toutes les factions de la transhumanité.
 
 # Sommaire
-- [[Jeux de role/Eclipse Phase/Univers de jeu/Eclipse Phase - Univers de jeu\|Présentation de l'univers de jeu]]
-- [[Jeux de role/Eclipse Phase/Journal de campagne/Journal de campagne - Sommaire\|Journal de campagne]]
+- [[Jeux de role/Eclipse Phase/Univers de jeu/Eclipse Phase - Univers de jeu\|Présentation de l'univers de jeu]] (WiP)
+- [[Jeux de role/Eclipse Phase/Journal de campagne/Journal de campagne - Sommaire\|Journal de campagne]] (A venir)
