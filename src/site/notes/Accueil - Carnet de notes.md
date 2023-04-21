@@ -9,5 +9,6 @@ Bienvenue sur mon carnet de notes / aide mémoire. Des notes autour de l'informa
 
 ### Jeux de rôle
  - [[Jeux de role/Eclipse Phase/Eclipse Phase\|Eclipse Phase]]
+ - Forbidden lands
 #### Système Savage Worlds
- - [[Jeux de role/Pathfinder pour savage worlds/Sommaire\|Pathfinder pour Savage World]]
+ - [[Jeux de role/Pathfinder pour savage worlds/Sommaire\|Pathfinder pour Savage World]] (A venir)
